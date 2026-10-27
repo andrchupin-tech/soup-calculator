@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         // Начальные данные (берем из примера №2)
         int currentAccount = 100;          // Текущий счет клиента
-        int replenishmentAmount = 300;    // Сумма пополнения
+        int replenishmentAmount = 1000;    // Сумма пополнения
 
         int bonusRubles = 0;               // Переменная для бонусов
 
